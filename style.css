@@ -92,9 +92,14 @@ h1{
     background-color: rgb(49, 49, 49);
 }
 .screen4{
-    margin-top:50px;
+    margin-top:35px;
     margin-bottom: 55px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: rgb(49, 49, 49);
     color: white;
     text-align: center;
     letter-spacing: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
 }

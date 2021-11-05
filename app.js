@@ -62,7 +62,7 @@ msg3.addEventListener("click",function(){
 function myfun1(val){
     next_screen.replaceWith(next_screen2)
     next_screen2.classList.add("screen4")
-    next_screen2.style.padding="6px"
+    next_screen2.style.padding="8px"
     next_screen2.style.fontSize="13px"
     if(val==0){
     next_screen2.innerHTML="C is the mother of all programming language and it is a structure based language."
