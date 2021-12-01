@@ -103,3 +103,9 @@ h1{
     margin-left: 10px;
     margin-right: 10px;
 }
+.chat{
+    cursor: pointer;
+}
+.screen3>div{
+    cursor: pointer;
+}
